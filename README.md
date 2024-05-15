@@ -1,4 +1,4 @@
-<h1>Titulo ou Arte do Projeto</h1> 
+<h1>Lua Task Manager</h1> 
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
@@ -11,11 +11,11 @@
    <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: :warning: (concluido, em desenvolvimento, etc)
+> Status do Projeto: :heavy_check_mark: CONCLUDED
 
 ### Tópicos 
 
-:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
+:small_blue_diamond: [Description of Project](#descrição-do-projeto)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
