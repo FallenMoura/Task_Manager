@@ -93,9 +93,8 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 |id|title|
 | -------- |-------- |
 |1|Consultas|
-... 
 
-Se quiser, coloque uma amostra do banco de dados 
+Amostra do banco de dados, 
 
 ## Iniciando/Configurando banco de dados
 
