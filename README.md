@@ -1,33 +1,24 @@
 <h1>Lua Task Manager</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
-  <img src="https://img.shields.io/static/v1?label=Netlify&message=deploy&color=blue&style=for-the-badge&logo=netlify"/>
+  <img src="https://img.shields.io/static/v1?label=Lua&message=v5.4.2&color=blue&style=for-the-badge&logo=LUA"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=Ruby&message=2.6.3&color=red&style=for-the-badge&logo=ruby"/>
-  <img src="http://img.shields.io/static/v1?label=Ruby%20On%20Rails%20&message=6.0.2.2&color=red&style=for-the-badge&logo=ruby"/>
-  <img src="http://img.shields.io/static/v1?label=TESTES&message=%3E100&color=GREEN&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
-   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: CONCLUDED
-
 ### Tópicos 
+:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
 
-:small_blue_diamond: [Description of Project](#descrição-do-projeto)
+:small_blue_diamond: [Apresentação da Interface CMD Windows](#apresentação)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
-:small_blue_diamond: [Deploy da Aplicação](#deploy-da-aplicação-dash)
+:small_blue_diamond: [Dependências](#dependências)
 
-:small_blue_diamond: [Pré-requisitos](#pré-requisitos)
-
-:small_blue_diamond: [Como rodar a aplicação](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [Como rodar](#como-rodar-a-aplicação-arrow_forward)
 
 ... 
 
-Insira os tópicos do README em links para facilitar a navegação do leitor
 
 ## Descrição do projeto 
 
@@ -35,15 +26,17 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
   Descrição breve do projeto compondo um paragrafo ou dois. 
 </p>
 
+##Apresentação da Interface CMD Windows
+
 ## Funcionalidades
 
-:heavy_check_mark: Funcionalidade 1  
+:heavy_check_mark: Criação/Visualização/Eleminação de Tarefas  
 
-:heavy_check_mark: Funcionalidade 2  
+:heavy_check_mark: Criação/Visualização/Eleminação de Categorias
 
-:heavy_check_mark: Funcionalidade 3  
+:heavy_check_mark: Associar Tarefas a Categorias  
 
-:heavy_check_mark: Funcionalidade 4  
+:heavy_check_mark: Visualizar Tarafas na integra ou por categorias
 
 ## Layout ou Deploy da Aplicação :dash:
 
@@ -89,12 +82,17 @@ Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente n
 
 ## JSON :floppy_disk:
 
-### Usuários: 
+### Tarefas: 
 
-|name|email|password|token|avatar|
+|id|title|description|validity|category|
 | -------- |-------- |-------- |-------- |-------- |
-|Lais Lima|laislima98@hotmail.com|lais123|true|https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcS9-U_HbQAipum9lWln3APcBIwng7T46hdBA42EJv8Hf6Z4fDT3&usqp=CAU|
+|1|Dentista|Ida ao dentista dia 22/05/2024 às 13:30|22/05/2024|Consultas|
 
+### Categorias:
+
+|id|title|
+| -------- |-------- |
+|1|Consultas|
 ... 
 
 Se quiser, coloque uma amostra do banco de dados 
@@ -114,27 +112,17 @@ Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo 
 
 ## Resolvendo Problemas :exclamation:
 
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos. 
-
-## Tarefas em aberto
-
-Se for o caso, liste tarefas/funcionalidades que ainda precisam ser implementadas na sua aplicação
-
-:memo: Tarefa 1 
-
-:memo: Tarefa 2 
-
-:memo: Tarefa 3 
+Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
 ## Desenvolvedores/Contribuintes :octocat:
 
 Liste o time responsável pelo desenvolvimento do projeto
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |  [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Diana Regina</sub>](https://github.com/Diana-ops) |
-| :---: | :---: | :---: 
+| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Bernardo Moura</sub>](https://github.com/Diana-ops) |
+| :---:  
 
 ## Licença 
 
 The [MIT License]() (MIT)
 
-Copyright :copyright: Ano - Titulo do Projeto
+Copyright :copyright: 2024 - Task_Manager
