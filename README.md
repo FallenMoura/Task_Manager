@@ -1,7 +1,7 @@
 <h1>Lua Task Manager</h1> 
 
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Lua&message=v5.4.2&color=blue&style=for-the-badge&logo=LUA"/>
+  <img src="https://img.shields.io/static/v1?label=Lua&message=v5.4&color=blue&style=for-the-badge&logo=LUA"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
@@ -17,22 +17,19 @@
 
 :small_blue_diamond: [Como rodar](#como-rodar-a-aplicação-arrow_forward)
 
-... 
-
-
 ## Descrição do projeto 
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+  Um simples gestor de tarefas que usa o CMD e arquivo json local para armazenar as tarefas e as categorias.
 </p>
 
-##Apresentação da Interface CMD Windows
+## Apresentação da Interface CMD Windows
 
 ## Funcionalidades
 
-:heavy_check_mark: Criação/Visualização/Eleminação de Tarefas  
+:heavy_check_mark: Criação/Visualização/Eliminação de Tarefas  
 
-:heavy_check_mark: Criação/Visualização/Eleminação de Categorias
+:heavy_check_mark: Criação/Visualização/Eliminaçãode Categorias
 
 :heavy_check_mark: Associar Tarefas a Categorias  
 
@@ -48,30 +45,19 @@ Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
 
 ## Pré-requisitos
 
-:warning: [Node](https://nodejs.org/en/download/)
+:warning: [Lua 5.4](https://nodejs.org/en/download/)
 
 ...
 
-Liste todas as dependencias e libs que o usuário deve ter instalado na máquina antes de rodar a aplicação 
 
 ## Como rodar a aplicação :arrow_forward:
 
 No terminal, clone o projeto: 
 
 ```
-git clone https://github.com/React-Bootcamp-WoMarkersCode/certificate-generator
-```
-
-... 
-
-Coloque um passo a passo para rodar a sua aplicação. **Dica: clone o próprio projeto e verfique se o passo a passo funciona**
-
-## Como rodar os testes
-
-Coloque um passo a passo para executar os testes
-
-```
-$ npm test, rspec, etc 
+git clone https://github.com/FallenMoura/Task_Manager
+cd .../lua (pasta com o clone)
+lua main.lua
 ```
 
 ## Casos de Uso
