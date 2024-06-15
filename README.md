@@ -65,6 +65,7 @@ lua main.lua
 Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
 
 Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
+<iframe src="https://giphy.com/embed/FL3AnljfwBryLGWTPk" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FL3AnljfwBryLGWTPk"></a></p>
 
 ## JSON :floppy_disk:
 
