@@ -41,8 +41,6 @@
 
 :warning: [Lua 5.4](https://www.lua.org/download.html)
 
-...
-
 ## How to Run the Application :arrow_forward:
 
 In the terminal, clone the project:
@@ -75,8 +73,7 @@ In [issues](), some problems generated during the development of this project we
 
 List the team responsible for developing the project
 
-| [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Bernardo Moura</sub>](https://github.com/Diana-ops) |
-| :---:  
+| [<img src="https://ibb.co/8gBSNzQ" width=115><br><sub>Bernardo Moura</sub>](https://github.com/FallenMoura) |
 
 ## License
 
