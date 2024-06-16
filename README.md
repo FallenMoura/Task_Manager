@@ -67,11 +67,10 @@ lua main.lua
 
 ## Troubleshooting :exclamation:
 
-In [issues](), some problems generated during the development of this project were opened and how they were resolved.
+In <a href="https://github.com/FallenMoura/Task_Manager/issues">, some problems generated during the development of this project were opened and how they were resolved.
 
 ## Developers/Contributors :octocat:
 
-List the team responsible for developing the project
 
 | [<img src="https://i.ibb.co/8gBSNzQ/profile-photo.png" alt="profile-photo" border="0" width="120" height="120"><br><sub>Bernardo Moura</sub>](https://github.com/FallenMoura) |
 | :---: 
