@@ -67,7 +67,7 @@ lua main.lua
 
 ## Troubleshooting :exclamation:
 
-In <a href="https://github.com/FallenMoura/Task_Manager/issues">, some problems generated during the development of this project were opened and how they were resolved.
+In <a href="https://github.com/FallenMoura/Task_Manager/issues">issues</a>, some problems generated during the development of this project were opened and how they were resolved.
 
 ## Developers/Contributors :octocat:
 
