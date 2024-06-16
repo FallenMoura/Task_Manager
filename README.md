@@ -13,7 +13,7 @@
 
 :small_blue_diamond: [Features](#features)
 
-:small_blue_diamond: [Dependencies](#dependencies)
+:small_blue_diamond: [Dependencies](#prerequisites)
 
 :small_blue_diamond: [How to Run](#how-to-run-arrow_forward)
 
@@ -24,6 +24,7 @@
 </p>
 
 ## CMD Windows Interface Presentation
+<a href="https://vgy.me/u/A64P41"><img src="https://i.vgy.me/A64P41.png" alt="A64P41.png"></a>
 
 ## Features
 
@@ -52,8 +53,6 @@ cd .../lua (folder with the clone)
 lua main.lua
 ```
 
-<img src="https://i.vgy.me/A64P41.png" alt="A64P41.png">
-
 ## JSON :floppy_disk:
 
 ### Tasks:
@@ -67,11 +66,6 @@ lua main.lua
 |id|title|
 | -------- |-------- |
 |1|Appointments|
-
-## Languages, Dependencies, and Libraries Used :books:
-
-- [Lua](https://lua.org/download.html)
-
 
 ## Troubleshooting :exclamation:
 
