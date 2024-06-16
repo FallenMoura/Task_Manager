@@ -73,8 +73,7 @@ In [issues](), some problems generated during the development of this project we
 
 List the team responsible for developing the project
 
-| [<img src="https://ibb.co/8gBSNzQ" width=115><br><sub>Bernardo Moura</sub>](https://github.com/FallenMoura) |
-
+| [<a href="https://imgbb.com/"><img src="https://i.ibb.co/b538QHG/profile-photo.png" alt="profile-photo" border="0"></a><br><sub>Bernardo Moura</sub>](https://github.com/FallenMoura)|
 ## License
 
 The [MIT License]() (MIT)
