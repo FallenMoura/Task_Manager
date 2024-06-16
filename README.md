@@ -1,112 +1,90 @@
-<h1>Lua Task Manager</h1> 
+<h1>Lua Task Manager</h1>
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=Lua&message=v5.4&color=blue&style=for-the-badge&logo=LUA"/>
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+  <img src="http://img.shields.io/static/v1?label=STATUS&message=COMPLETED&color=GREEN&style=for-the-badge"/>
 </p>
 
-### Tópicos 
-:small_blue_diamond: [Descrição do Projeto](#descrição-do-projeto)
+### Topics
+:small_blue_diamond: [Project Description](#project-description)
 
-:small_blue_diamond: [Apresentação da Interface CMD Windows](#apresentação)
+:small_blue_diamond: [CMD Windows Interface Presentation](#cmd-windows-interface-presentation)
 
-:small_blue_diamond: [Funcionalidades](#funcionalidades)
+:small_blue_diamond: [Features](#features)
 
-:small_blue_diamond: [Dependências](#dependências)
+:small_blue_diamond: [Dependencies](#dependencies)
 
-:small_blue_diamond: [Como rodar](#como-rodar-a-aplicação-arrow_forward)
+:small_blue_diamond: [How to Run](#how-to-run-arrow_forward)
 
-## Descrição do projeto 
+## Project Description
 
 <p align="justify">
-  Um simples gestor de tarefas que usa o CMD e arquivo json local para armazenar as tarefas e as categorias.
+  A simple task manager that uses CMD and local JSON files to store tasks and categories.
 </p>
 
-## Apresentação da Interface CMD Windows
+## CMD Windows Interface Presentation
 
-## Funcionalidades
+## Features
 
-:heavy_check_mark: Criação/Visualização/Eliminação de Tarefas  
+:heavy_check_mark: Create/View/Delete Tasks  
 
-:heavy_check_mark: Criação/Visualização/Eliminaçãode Categorias
+:heavy_check_mark: Create/View/Delete Categories  
 
-:heavy_check_mark: Associar Tarefas a Categorias  
+:heavy_check_mark: Associate Tasks with Categories  
 
-:heavy_check_mark: Visualizar Tarafas na integra ou por categorias
+:heavy_check_mark: View Tasks either in full or by category  
 
-## Layout ou Deploy da Aplicação :dash:
 
-> Link do deploy da aplicação. Exemplo com netlify: https://certificates-for-everyone-womakerscode.netlify.app/
+## Prerequisites
 
-... 
-
-Se ainda não houver deploy, insira capturas de tela da aplicação ou gifs
-
-## Pré-requisitos
-
-:warning: [Lua 5.4](https://nodejs.org/en/download/)
+:warning: [Lua 5.4](https://www.lua.org/download.html)
 
 ...
 
+## How to Run the Application :arrow_forward:
 
-## Como rodar a aplicação :arrow_forward:
-
-No terminal, clone o projeto: 
+In the terminal, clone the project:
 
 ```
 git clone https://github.com/FallenMoura/Task_Manager
-cd .../lua (pasta com o clone)
+cd .../lua (folder with the clone)
 lua main.lua
 ```
 
-## Casos de Uso
+<img src="https://i.vgy.me/A64P41.png" alt="A64P41.png">
 
-Explique com mais detalhes como a sua aplicação poderia ser utilizada. O uso de **gifs** aqui seria bem interessante. 
-
-Exemplo: Caso a sua aplicação tenha alguma funcionalidade de login apresente neste tópico os dados necessários para acessá-la.
-<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/FL3AnljfwBryLGWTPk" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/FL3AnljfwBryLGWTPk">via GIPHY</a></p>
 ## JSON :floppy_disk:
 
-### Tarefas: 
+### Tasks:
 
 |id|title|description|validity|category|
 | -------- |-------- |-------- |-------- |-------- |
-|1|Dentista|Ida ao dentista dia 22/05/2024 às 13:30|22/05/2024|Consultas|
+|1|Dentist|Dentist appointment on 22/05/2024 at 13:30|22/05/2024|Appointments|
 
-### Categorias:
+### Categories:
 
 |id|title|
 | -------- |-------- |
-|1|Consultas|
+|1|Appointments|
 
-Amostra do banco de dados, 
+## Languages, Dependencies, and Libraries Used :books:
 
-## Iniciando/Configurando banco de dados
+- [Lua](https://lua.org/download.html)
 
-Se for necessário configurar algo antes de iniciar o banco de dados insira os comandos a serem executados 
 
-## Linguagens, dependencias e libs utilizadas :books:
+## Troubleshooting :exclamation:
 
-- [React](https://pt-br.reactjs.org/docs/create-a-new-react-app.html)
-- [React PDF](https://react-pdf.org/)
+In [issues](), some problems generated during the development of this project were opened and how they were resolved.
 
-...
+## Developers/Contributors :octocat:
 
-Liste as tecnologias utilizadas no projeto que **não** forem reconhecidas pelo Github 
-
-## Resolvendo Problemas :exclamation:
-
-Em [issues]() foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
-
-## Desenvolvedores/Contribuintes :octocat:
-
-Liste o time responsável pelo desenvolvimento do projeto
+List the team responsible for developing the project
 
 | [<img src="https://avatars2.githubusercontent.com/u/46378210?s=400&u=071f7791bb03f8e102d835bdb9c2f0d3d24e8a34&v=4" width=115><br><sub>Bernardo Moura</sub>](https://github.com/Diana-ops) |
 | :---:  
 
-## Licença 
+## License
 
 The [MIT License]() (MIT)
 
