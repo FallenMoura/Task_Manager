@@ -73,7 +73,7 @@ In [issues](), some problems generated during the development of this project we
 
 List the team responsible for developing the project
 
-| [<img src="https://i.ibb.co/8gBSNzQ/profile-photo.png" alt="profile-photo" border="0" width="720" height="720"><br><sub>Bernardo Moura</sub>](https://github.com/FallenMoura) |
+| [<img src="https://i.ibb.co/8gBSNzQ/profile-photo.png" alt="profile-photo" border="0" width="96" height="96"><br><sub>Bernardo Moura</sub>](https://github.com/FallenMoura) |
 | :---: 
 
 ## License
